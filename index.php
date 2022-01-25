@@ -28,4 +28,6 @@ if($valeur > 0){
 else $resultat = "non numérique";
 
 echo "La valeur est $resultat.";
+?>
 
+<p><a href="boucles.php">Boucles</a></p>
